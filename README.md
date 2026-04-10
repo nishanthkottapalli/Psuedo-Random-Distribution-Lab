@@ -10,7 +10,7 @@ It includes:
 - **Radiant/Dire theme switch**
 - **General PRD playground** (try different ramp shapes: Dota-linear, linear c0+inc, exponential)
 
-[Live Link](https://nishanth-murthy-kottapalli.github.io/Psuedo-Random-Distribution-Lab/)
+[Live Link](https://nishanth-konsultancy.github.io/Psuedo-Random-Distribution-Lab/)
 
 ## Local run
 
